@@ -1,0 +1,23 @@
+C:\Users\Harrys-Laptop\source\repos\HumansVsZombies\HumansVsZombies\bin\Debug\HumansVsZombies.exe.config
+C:\Users\Harrys-Laptop\source\repos\HumansVsZombies\HumansVsZombies\bin\Debug\HumansVsZombies.exe
+C:\Users\Harrys-Laptop\source\repos\HumansVsZombies\HumansVsZombies\bin\Debug\HumansVsZombies.pdb
+C:\Users\Harrys-Laptop\source\repos\HumansVsZombies\HumansVsZombies\obj\Debug\HumansVsZombies.csprojAssemblyReference.cache
+C:\Users\Harrys-Laptop\source\repos\HumansVsZombies\HumansVsZombies\obj\Debug\HumansVsZombies.LoadingScreen.resources
+C:\Users\Harrys-Laptop\source\repos\HumansVsZombies\HumansVsZombies\obj\Debug\HumansVsZombies.Properties.Resources.resources
+C:\Users\Harrys-Laptop\source\repos\HumansVsZombies\HumansVsZombies\obj\Debug\HumansVsZombies.csproj.GenerateResource.cache
+C:\Users\Harrys-Laptop\source\repos\HumansVsZombies\HumansVsZombies\obj\Debug\HumansVsZombies.exe
+C:\Users\Harrys-Laptop\source\repos\HumansVsZombies\HumansVsZombies\obj\Debug\HumansVsZombies.pdb
+C:\Users\Harrys-Laptop\source\repos\HumansVsZombies\HumansVsZombies\obj\Debug\HumansVsZombies.Game.resources
+C:\Users\Harrys-Laptop\source\repos\HumansVsZombies\HumansVsZombies\obj\Debug\HumansVsZombies.MainMenu.resources
+D:\MainFolder - User\tkink\Document\New folder (25)\HumansVsZombies\bin\Debug\HumansVsZombies.exe.config
+D:\MainFolder - User\tkink\Document\New folder (25)\HumansVsZombies\bin\Debug\HumansVsZombies.exe
+D:\MainFolder - User\tkink\Document\New folder (25)\HumansVsZombies\bin\Debug\HumansVsZombies.pdb
+D:\MainFolder - User\tkink\Document\New folder (25)\HumansVsZombies\obj\Debug\HumansVsZombies.csprojAssemblyReference.cache
+D:\MainFolder - User\tkink\Document\New folder (25)\HumansVsZombies\obj\Debug\HumansVsZombies.Game.resources
+D:\MainFolder - User\tkink\Document\New folder (25)\HumansVsZombies\obj\Debug\HumansVsZombies.LoadingScreen.resources
+D:\MainFolder - User\tkink\Document\New folder (25)\HumansVsZombies\obj\Debug\HumansVsZombies.MainMenu.resources
+D:\MainFolder - User\tkink\Document\New folder (25)\HumansVsZombies\obj\Debug\HumansVsZombies.Properties.Resources.resources
+D:\MainFolder - User\tkink\Document\New folder (25)\HumansVsZombies\obj\Debug\HumansVsZombies.csproj.GenerateResource.cache
+D:\MainFolder - User\tkink\Document\New folder (25)\HumansVsZombies\obj\Debug\HumansVsZombies.exe
+D:\MainFolder - User\tkink\Document\New folder (25)\HumansVsZombies\obj\Debug\HumansVsZombies.pdb
+D:\MainFolder - User\tkink\Document\New folder (25)\HumansVsZombies\obj\Debug\HumansVsZombies.highScoreScreen.resources
